@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900 text-white min-h-screen;
+  }
+}
+
+@layer components {
+  .neon-glow {
+    text-shadow: 0 0 10px rgba(131, 56, 236, 0.8),
+                 0 0 20px rgba(131, 56, 236, 0.6),
+                 0 0 30px rgba(131, 56, 236, 0.4);
+  }
+
+  .prediction-card {
+    @apply bg-gray-800 bg-opacity-50 backdrop-blur-sm border border-purple-500 border-opacity-30 rounded-lg p-4 hover:border-opacity-60 transition-all duration-300;
+  }
+
+  .stat-box {
+    @apply bg-gradient-to-br from-purple-600 to-pink-600 rounded-lg p-6 shadow-lg transform hover:scale-105 transition-transform duration-300;
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+.float-animation {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(131, 56, 236, 0.5); }
+  50% { box-shadow: 0 0 40px rgba(131, 56, 236, 0.8), 0 0 60px rgba(255, 0, 110, 0.6); }
+}
+
+.pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
