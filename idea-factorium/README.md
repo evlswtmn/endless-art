@@ -40,7 +40,7 @@ Use these in project files to track where things stand:
 
 ## Quick Index
 
-### Games & Apps (17)
+### Games & Apps (22)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Combat Diorama Collector](games-apps/combat-diorama-collector.md) | `idea` | Collect miniature figurines that wake up and fight when placed together |
@@ -61,6 +61,11 @@ Use these in project files to track where things stand:
 | [Storyline to Comic Workflow](games-apps/storyline-to-comic-workflow.md) | `idea` | Pipeline: storyline → plot hole check → comic panel generation |
 | [AI Scam Baiter](games-apps/ai-scam-baiter.md) | `idea` | AI that wastes scammers' time at scale, potentially redirecting winnings to charity |
 | [Elder Care AI Tools](games-apps/elder-care-ai-tools.md) | `idea` | AI suite for elder care — meds, fall detection, companionship, family comms |
+| [Groupie](games-apps/groupie.md) | `idea` | Private-group social platform for collaborative AI content + Printify merch |
+| [CC&C](games-apps/ccc-concept-create-circulate.md) | `idea` | Friends chat, tag ideas, AI turns them into content drafts |
+| [Flipsell Scanner](games-apps/flipsell-scanner.md) | `idea` | Point camera at any item, get AI analysis and resale platform suggestions |
+| [Shadow Revenants](games-apps/shadow-revenants.md) | `idea` | Retro 2D browser game — ninja vs undead horror, HTML5 Canvas |
+| [LocalAIHub](games-apps/localaihub.md) | `idea` | SaaS simplifying local LLM deployment for non-technical users |
 
 ### Anime & Animation (7)
 | Project | Status | One-liner |
@@ -116,7 +121,7 @@ Use these in project files to track where things stand:
 | [Artifact Creatures / Living Weapons](card-games/artifact-creatures-living-weapons.md) | `idea` | Equipment cards that detach and fight on their own when wielder dies |
 | [The Burnout Mechanic](card-games/the-burnout-mechanic.md) | `idea` | Massive stat boost now, guaranteed destruction next turn |
 
-### Ventures & Side Hustles (6)
+### Ventures & Side Hustles (7)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Dover Dreamers Dispatch](ventures/dover-dreamers-dispatch.md) | `idea` | Substack newsletter curating side hustles, sci-fi reviews, and local quirks |
@@ -125,6 +130,7 @@ Use these in project files to track where things stand:
 | [Mood Moss Modules](ventures/mood-moss-modules.md) | `idea` | Modular plant systems with sensors for mental health monitoring |
 | [Blue-Collar Tech Podcast](ventures/blue-collar-tech-podcast.md) | `idea` | Podcast at the intersection of trades expertise and tech side hustles |
 | [The Well (Website)](ventures/the-well-website.md) | `idea` | Content hub with portals to all creative projects + merch integration |
+| [Gen X AI Newsletter](ventures/gen-x-ai-newsletter.md) | `idea` | Weekly newsletter reviewing AI tools for Gen X — tested, judged, explained |
 
 ### Other (2)
 | Project | Status | One-liner |
@@ -138,4 +144,4 @@ Use these in project files to track where things stand:
 *- Grok chat — 10 projects (0 duplicates)*
 *- Gemini chat — 7 projects (1 merged into existing)*
 *- Kimi chat — 20 new projects (2 merged into existing, ~9 skipped as non-project items)*
-*More incoming from additional chat sources*
+*- Perplexity chat — 6 new projects + 1 enriched existing (Dover Dreamers expansion model)*
