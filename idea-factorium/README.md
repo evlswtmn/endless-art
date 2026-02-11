@@ -3,6 +3,24 @@
 A creative project hub — one place for all the stories, apps, art concepts, and wild ideas
 that are currently scattered across a dozen AI chats.
 
+**All roads lead to The Well.**
+
+---
+
+## The Well — The Kingpin
+
+> *You and Greg go on "runs" into alternate realities, swapping so you each experience the
+> same worlds. Every other project in here? That's a world you might visit.*
+
+**[The Well](ventures/the-well-website.md)** is the central narrative universe that
+connects everything in the Factorium. It's the frame story, the origin point, and
+eventually the website/brand that houses it all. Every story, comic, game, and concept
+below is a potential alternate reality that a run could drop you into.
+
+Read the full document: **[ventures/the-well-website.md](ventures/the-well-website.md)**
+
+---
+
 ## How This Is Organized
 
 Each category has its own folder. Projects live as markdown files inside their category.
@@ -129,7 +147,7 @@ Use these in project files to track where things stand:
 | [Sci-Fi Sarcasm Tees](ventures/sci-fi-sarcasm-tees.md) | `idea` | Print-on-demand tees — sci-fi, Eastern Shore, plant tech humor lines |
 | [Mood Moss Modules](ventures/mood-moss-modules.md) | `idea` | Modular plant systems with sensors for mental health monitoring |
 | [Blue-Collar Tech Podcast](ventures/blue-collar-tech-podcast.md) | `idea` | Podcast at the intersection of trades expertise and tech side hustles |
-| [The Well (Website)](ventures/the-well-website.md) | `idea` | Content hub with portals to all creative projects + merch integration |
+| [**The Well**](ventures/the-well-website.md) | `exploring` | **The kingpin** — narrative universe connecting all projects through alternate reality runs |
 | [Gen X AI Newsletter](ventures/gen-x-ai-newsletter.md) | `idea` | Weekly newsletter reviewing AI tools for Gen X — tested, judged, explained |
 
 ### Other (2)
