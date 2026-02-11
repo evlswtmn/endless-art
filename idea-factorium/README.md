@@ -40,7 +40,7 @@ Use these in project files to track where things stand:
 
 ## Quick Index
 
-### Games & Apps (6)
+### Games & Apps (17)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Combat Diorama Collector](games-apps/combat-diorama-collector.md) | `idea` | Collect miniature figurines that wake up and fight when placed together |
@@ -49,6 +49,18 @@ Use these in project files to track where things stand:
 | [Hustle Harvest](games-apps/hustle-harvest.md) | `idea` | Mobile app tracking passive income ideas with AI tips tailored to your job skills |
 | [Hyperlocal Community Platform](games-apps/hyperlocal-community-platform.md) | `idea` | Curated digital space for Eastern Shore MD/DE — local news, events, marketplace |
 | [Plant Tech Workflow App](games-apps/plant-tech-workflow-app.md) | `idea` | Field technician utility app — site logs, equipment tracking, reporting SaaS |
+| [Rampage Drop](games-apps/rampage-drop.md) | `idea` | Block-dropping meets physics destruction — Tetris x Angry Birds with a message |
+| [Feature World Revamp](games-apps/feature-world-revamp.md) | `idea` | Interactive HTML web game — hack-and-slash, animated blocks, particle effects |
+| [Sports Betting Arbitrage](games-apps/sports-betting-arbitrage.md) | `idea` | Streamlit dashboard detecting cross-bookmaker arbitrage opportunities |
+| [X Writer SaaS](games-apps/x-writer-saas.md) | `idea` | Content platform for X/Twitter — multi-account, scheduling, analytics |
+| [Distributed LLM Network](games-apps/distributed-llm-network.md) | `idea` | Community GPU-sharing to run large LLMs with crypto-style token rewards |
+| [TimeVault](games-apps/timevault.md) | `idea` | Pick a date and place on a globe, get AI-generated historical video reenactment |
+| [Unified AI Hub](games-apps/unified-ai-hub.md) | `idea` | One interface for all AI conversations — Claude, ChatGPT, Gemini, Kimi |
+| [Wildlife Management App](games-apps/wildlife-management-app.md) | `idea` | Private local AI for wildlife management — small team, messaging integration |
+| [Gen X AI Helper](games-apps/gen-x-ai-helper.md) | `idea` | Service helping Gen X navigate AI tools — helper, not another platform |
+| [Storyline to Comic Workflow](games-apps/storyline-to-comic-workflow.md) | `idea` | Pipeline: storyline → plot hole check → comic panel generation |
+| [AI Scam Baiter](games-apps/ai-scam-baiter.md) | `idea` | AI that wastes scammers' time at scale, potentially redirecting winnings to charity |
+| [Elder Care AI Tools](games-apps/elder-care-ai-tools.md) | `idea` | AI suite for elder care — meds, fall detection, companionship, family comms |
 
 ### Anime & Animation (7)
 | Project | Status | One-liner |
@@ -69,12 +81,13 @@ Use these in project files to track where things stand:
 | [The Manga Critic](webcomics/the-manga-critic.md) | `idea` | Cynical art critic lives inside a shonen manga, reviews the fights |
 | [Lotion Lords of Golts](webcomics/lotion-lords-of-golts.md) | `idea` | Factory workers battle corporate overlords with quirky inventions and hustle hacks |
 
-### Visual Art & Short Films (3)
+### Visual Art & Short Films (4)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Cosmic Horror Background Artist](visual-art/cosmic-horror-background-artist.md) | `idea` | Production assistant paints Cthulhu as a 9-to-5 while manifesting horrors |
 | [Personification of Bureaucracy](visual-art/personification-of-bureaucracy.md) | `idea` | Not Death — the entity that files you in the wrong department forever |
 | [The Storyteller's Curse](visual-art/the-storytellers-curse.md) | `idea` | Author writes things into existence but can never write himself a happy ending |
+| [Interactive 3D Gallery](visual-art/interactive-3d-gallery.md) | `idea` | HTML 3D rolling gallery with blur, rotation, and hover — could be endless-art frontend |
 
 ### Film & TV (2)
 | Project | Status | One-liner |
@@ -82,7 +95,7 @@ Use these in project files to track where things stand:
 | [The Fan Service Bodyguard](film-tv/fan-service-bodyguard.md) | `idea` | Washed-up actor as pop star body double becomes the real assassination target |
 | [The DLC Heist](film-tv/the-dlc-heist.md) | `idea` | Game devs hide the real story as secret DLC to rebel against corporate gutting |
 
-### Writing & Story Concepts (8)
+### Writing & Story Concepts (12)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Chekhov's Skill](novels-writing/chevkovs-skill.md) | `idea` | Inverse of Chekhov's Gun — useless skill in Act 1 solves everything in Act 3 |
@@ -92,6 +105,10 @@ Use these in project files to track where things stand:
 | [Galactic Side Hustle](novels-writing/galactic-side-hustle.md) | `idea` | Hapless Earthling starts an interstellar newsletter empire from his garage |
 | [Children's Books](novels-writing/childrens-books.md) | `idea` | Whimsical tech/nature children's stories — high-volume KDP royalty stream |
 | [Grounded Sci-Fi Shorts](novels-writing/grounded-sci-fi-shorts.md) | `idea` | Human-first sci-fi — family, mental health, and marriage in a high-tech future |
+| [AI Robin Hood](novels-writing/ai-robin-hood.md) | `idea` | Rogue AI redistributes wealth from ultra-rich to effective charities |
+| [Citizen Satisfaction: Pending](novels-writing/citizen-satisfaction-pending.md) | `idea` | Unfair government AI fine → recruit researcher → turn the bot into a whistleblower |
+| [The B Team](novels-writing/the-b-team.md) | `idea` | Hacker scams scammers and redistributes money before financial collapse |
+| [Greg's Magic Book](novels-writing/gregs-magic-book.md) | `idea` | A broken spell in a magic book sends its finder traveling to different worlds |
 
 ### Card Games (2)
 | Project | Status | One-liner |
@@ -99,7 +116,7 @@ Use these in project files to track where things stand:
 | [Artifact Creatures / Living Weapons](card-games/artifact-creatures-living-weapons.md) | `idea` | Equipment cards that detach and fight on their own when wielder dies |
 | [The Burnout Mechanic](card-games/the-burnout-mechanic.md) | `idea` | Massive stat boost now, guaranteed destruction next turn |
 
-### Ventures & Side Hustles (5)
+### Ventures & Side Hustles (6)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Dover Dreamers Dispatch](ventures/dover-dreamers-dispatch.md) | `idea` | Substack newsletter curating side hustles, sci-fi reviews, and local quirks |
@@ -107,10 +124,18 @@ Use these in project files to track where things stand:
 | [Sci-Fi Sarcasm Tees](ventures/sci-fi-sarcasm-tees.md) | `idea` | Print-on-demand tees — sci-fi, Eastern Shore, plant tech humor lines |
 | [Mood Moss Modules](ventures/mood-moss-modules.md) | `idea` | Modular plant systems with sensors for mental health monitoring |
 | [Blue-Collar Tech Podcast](ventures/blue-collar-tech-podcast.md) | `idea` | Podcast at the intersection of trades expertise and tech side hustles |
+| [The Well (Website)](ventures/the-well-website.md) | `idea` | Content hub with portals to all creative projects + merch integration |
+
+### Other (2)
+| Project | Status | One-liner |
+|---------|--------|-----------|
+| [Ancient Mesopotamia Course](other/ancient-mesopotamia-course.md) | `idea` | Open-access e-course on Ancient Mesopotamia with premium monetization |
+| [AI Hillbilly Band](other/ai-hillbilly-band.md) | `idea` | AI-generated hillbilly band — humor content for The Well |
 
 ---
 *Sources captured 2026-02-11:*
 *- DeepSeek chat — 20 projects*
 *- Grok chat — 10 projects (0 duplicates)*
 *- Gemini chat — 7 projects (1 merged into existing)*
+*- Kimi chat — 20 new projects (2 merged into existing, ~9 skipped as non-project items)*
 *More incoming from additional chat sources*

@@ -40,3 +40,4 @@ deep-dives. Snarky takes on failed hustles as a recurring feature.
 ## Notes & History
 
 - *2026-02-11:* Initial capture from Grok chat
+- *2026-02-11:* Kimi chat had two related concepts: "Dover, DE Newsletter" (hyperlocal AI-aggregated news/events) and "Gen X AI Newsletter" (AI tools for Gen X). Both overlap with this — the Dover angle matches the local pillar, and the Gen X AI angle could be a content vertical or separate from this entirely. See also: Gen X AI Helper app concept, Hyperlocal Community Platform.
