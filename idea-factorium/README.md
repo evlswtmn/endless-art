@@ -40,15 +40,17 @@ Use these in project files to track where things stand:
 
 ## Quick Index
 
-### Games & Apps (4)
+### Games & Apps (6)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Combat Diorama Collector](games-apps/combat-diorama-collector.md) | `idea` | Collect miniature figurines that wake up and fight when placed together |
 | [TCG Arena Spectator Mode](games-apps/tcg-arena-spectator-mode.md) | `idea` | Dedicated spectator client that makes watching TCGs feel like real sports |
 | [Drive to Survive Effect Analyzer](games-apps/drive-to-survive-effect-analyzer.md) | `idea` | Data tool quantifying how dramatized media boosts real-world engagement |
 | [Hustle Harvest](games-apps/hustle-harvest.md) | `idea` | Mobile app tracking passive income ideas with AI tips tailored to your job skills |
+| [Hyperlocal Community Platform](games-apps/hyperlocal-community-platform.md) | `idea` | Curated digital space for Eastern Shore MD/DE — local news, events, marketplace |
+| [Plant Tech Workflow App](games-apps/plant-tech-workflow-app.md) | `idea` | Field technician utility app — site logs, equipment tracking, reporting SaaS |
 
-### Anime & Animation (6)
+### Anime & Animation (7)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [DnD Adventuring Party Sitcom](anime/dnd-adventuring-party-sitcom.md) | `idea` | The Office meets dungeon crawling — HR nightmares of an adventuring party |
@@ -57,6 +59,7 @@ Use these in project files to track where things stand:
 | [Anime Opening Credit Horror](anime/anime-opening-credit-horror.md) | `idea` | Character trapped in an infinite anime opening loop — existential J-Pop dread |
 | [Modern Military Isekai Horror](anime/modern-military-isekai-horror.md) | `idea` | Navy carrier strike group isekai'd — responds with quarantine, not adventure |
 | [Eco-Tech Chronicles](anime/eco-tech-chronicles.md) | `idea` | Small-town family's plant-based tech venture attracts interdimensional pests |
+| [Tech-Magic Hybrid](anime/tech-magic-hybrid.md) | `idea` | Magic as utility infrastructure — blue-collar technicians keep the city running |
 
 ### Webcomics (4)
 | Project | Status | One-liner |
@@ -79,7 +82,7 @@ Use these in project files to track where things stand:
 | [The Fan Service Bodyguard](film-tv/fan-service-bodyguard.md) | `idea` | Washed-up actor as pop star body double becomes the real assassination target |
 | [The DLC Heist](film-tv/the-dlc-heist.md) | `idea` | Game devs hide the real story as secret DLC to rebel against corporate gutting |
 
-### Writing & Story Concepts (5)
+### Writing & Story Concepts (8)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Chekhov's Skill](novels-writing/chevkovs-skill.md) | `idea` | Inverse of Chekhov's Gun — useless skill in Act 1 solves everything in Act 3 |
@@ -87,6 +90,8 @@ Use these in project files to track where things stand:
 | [Plant Whisperer Protocol](novels-writing/plant-whisperer-protocol.md) | `idea` | Factory chemist discovers mood-boosting plants — then corporations come hunting |
 | [Dune's Forgotten Oasis](novels-writing/dunes-forgotten-oasis.md) | `idea` | Arrakis colony terraforms mini-oases with modded sandworms — with puns |
 | [Galactic Side Hustle](novels-writing/galactic-side-hustle.md) | `idea` | Hapless Earthling starts an interstellar newsletter empire from his garage |
+| [Children's Books](novels-writing/childrens-books.md) | `idea` | Whimsical tech/nature children's stories — high-volume KDP royalty stream |
+| [Grounded Sci-Fi Shorts](novels-writing/grounded-sci-fi-shorts.md) | `idea` | Human-first sci-fi — family, mental health, and marriage in a high-tech future |
 
 ### Card Games (2)
 | Project | Status | One-liner |
@@ -94,16 +99,18 @@ Use these in project files to track where things stand:
 | [Artifact Creatures / Living Weapons](card-games/artifact-creatures-living-weapons.md) | `idea` | Equipment cards that detach and fight on their own when wielder dies |
 | [The Burnout Mechanic](card-games/the-burnout-mechanic.md) | `idea` | Massive stat boost now, guaranteed destruction next turn |
 
-### Ventures & Side Hustles (4)
+### Ventures & Side Hustles (5)
 | Project | Status | One-liner |
 |---------|--------|-----------|
 | [Dover Dreamers Dispatch](ventures/dover-dreamers-dispatch.md) | `idea` | Substack newsletter curating side hustles, sci-fi reviews, and local quirks |
 | [Quirky Plant Emporium](ventures/quirky-plant-emporium.md) | `idea` | Online shop for sci-fi themed houseplants with lore cards |
-| [Sci-Fi Sarcasm Tees](ventures/sci-fi-sarcasm-tees.md) | `idea` | Print-on-demand tees — "I, Side Hustler" and other sci-fi x hustle mashups |
+| [Sci-Fi Sarcasm Tees](ventures/sci-fi-sarcasm-tees.md) | `idea` | Print-on-demand tees — sci-fi, Eastern Shore, plant tech humor lines |
 | [Mood Moss Modules](ventures/mood-moss-modules.md) | `idea` | Modular plant systems with sensors for mental health monitoring |
+| [Blue-Collar Tech Podcast](ventures/blue-collar-tech-podcast.md) | `idea` | Podcast at the intersection of trades expertise and tech side hustles |
 
 ---
 *Sources captured 2026-02-11:*
 *- DeepSeek chat — 20 projects*
 *- Grok chat — 10 projects (0 duplicates)*
-*More incoming from ~4 additional chat sources*
+*- Gemini chat — 7 projects (1 merged into existing)*
+*More incoming from additional chat sources*

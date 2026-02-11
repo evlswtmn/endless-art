@@ -15,14 +15,14 @@ cross-promo with other ventures.
 ## Key Elements
 
 - Print-on-demand via Printful — no inventory, no upfront cost
-- Sci-fi x hustle culture mashup designs
+- Multiple design lines (not just sci-fi):
+  - **Sci-fi x hustle culture** — "I, Side Hustler" (Asimov robot), Clarke monolith icons
+  - **Eastern Shore pride** — local MD/DE humor and identity
+  - **Plant tech humor** — jokes for field technicians and plant workers
+  - **Personal/family** — "Hallucination Hero," "Plant Lord"
 - Zero-effort fulfillment once designs are uploaded
-- Cross-sold through newsletter, plant shop, and social media
-- Design examples:
-  - "I, Side Hustler" (Asimov robot)
-  - Clarke monolith as newsletter icon
-  - "Hallucination Hero" (personal/family humor)
-  - "Plant Lord" (ties to Quirky Plant Emporium)
+- Cross-sold through newsletter, plant shop, podcast, and social media
+- Expand beyond tees: mugs, hoodies, stickers
 
 ## Revenue Model
 
@@ -42,3 +42,4 @@ cross-promo with other ventures.
 ## Notes & History
 
 - *2026-02-11:* Initial capture from Grok chat
+- *2026-02-11:* Expanded with Gemini chat — added Eastern Shore pride and plant tech humor design lines
