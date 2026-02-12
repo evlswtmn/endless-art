@@ -1,0 +1,18 @@
+{
+  "name": "CareTracker - Caregiver Expense & Deduction Tracker",
+  "short_name": "CareTracker",
+  "description": "Track medical mileage, expenses, and tax deductions for caregivers. IRS-compliant mileage logging with shift schedule overlay.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "categories": ["finance", "health", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e40af'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>CT</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
